@@ -1,0 +1,4 @@
+clipvenv/
+__pycache__/
+*.pyc
+.env
